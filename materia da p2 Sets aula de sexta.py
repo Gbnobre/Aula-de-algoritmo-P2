@@ -85,3 +85,6 @@ planetas4 = {'Terra', 'Marte', 'Urano', 'Neturno'}
 print('O planeta que saiu foi:', planetas4.pop())  
 print('\033[37;1m')
 
+# PARA FAZER A UNIAO DOS SETS USE O OPERADOR | OU OM METODO .UNION
+
+
